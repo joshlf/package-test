@@ -1,0 +1,7 @@
+[package]
+name = "package-test"
+version = "0.1.0"
+authors = ["Joshua Liebow-Feeser <hello@joshlf.com>"]
+
+[dependencies]
+sum = { path = "./sum" }

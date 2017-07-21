@@ -1,0 +1,6 @@
+[package]
+name = "sum"
+version = "0.1.0"
+authors = ["Joshua Liebow-Feeser <hello@joshlf.com>"]
+
+[dependencies]
