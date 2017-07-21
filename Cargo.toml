@@ -1,7 +1,11 @@
 [package]
-name = "package-test"
+name = "package-test-b3e120686354b35756b0"
 version = "0.1.0"
 authors = ["Joshua Liebow-Feeser <hello@joshlf.com>"]
+repository = "https://github.com/joshlf/package-test"
+description = "Test packaging filesystem-local dependencies in .crate files."
+license = "PDDL-1.0"
 
 [dependencies]
-sum = { path = "./sum" }
+# sum = "0.1.0"
+# sum = { path = "./sum" }
